@@ -27,3 +27,15 @@ a {
   padding: 8px;
   background-color: #dddddd;
 }
+/*Asst Picture*/
+#asstpicture{
+  text-align: center;
+}
+.assistant{
+  margin-top: 50px;
+  width: 150px;
+  height: 260px;
+  border-radius: 50%;
+  border: 3px solid white;
+  transition: all .5s;
+}
